@@ -7,16 +7,16 @@ and contribute to its value. This report aims to analyse the statistical relatio
 attributes and the price of cubic zirconia.
 
 The dataset contains 26,967 observations, with 10 recorded variables describing various attributes of cubic zirconia:
-● Response Variable:
-  ○  Price: The price of cubic zirconia.
-● Covariates:
-  ○ Carat: A measure of the gemstone's weight.
-  ○ Cut: Quality of the cut (Fair, Good, Very Good, Premium, Ideal).
-  ○ Colour: Graded: D, E, F, G, H, I, J.
-  ○ Clarity: Graded: FL, IF, VVS2, VS1, VS2, SI1, SI2, I1, I2, I3
-  ○ Depth: The gemstone's height from bottom tip to top flat surface.
-  ○ Table: The width of the top flat surface.
-  ○ Dimensions: Length (X), width (Y), and height (Z).
+- Response Variable:
+  - Price: The price of cubic zirconia.
+- Covariates:
+  - Carat: A measure of the gemstone's weight.
+  - Cut: Quality of the cut (Fair, Good, Very Good, Premium, Ideal).
+  - Colour: Graded: D, E, F, G, H, I, J.
+  - Clarity: Graded: FL, IF, VVS2, VS1, VS2, SI1, SI2, I1, I2, I3
+  - Depth: The gemstone's height from bottom tip to top flat surface.
+  - Table: The width of the top flat surface.
+  - Dimensions: Length (X), width (Y), and height (Z).
   
 Cut, Quality, and Clarity are categorical variables and Carat, Depth, Table, and Dimension columns are continuous variables.
 
