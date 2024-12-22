@@ -27,4 +27,4 @@ This analysis addresses the following:
 
 By focusing on inference, this report aims to provide actionable insights for manufacturers and retailers to optimize pricing strategies and understand value drivers in the gemstone market.
 
-Our biggest challenge in this project was dealing appropriately with multicollinearity between our covariates. After the end of the term, I went back to this project to try solving our multicollinearity problem using PCA.
+Our biggest challenge in this project was dealing appropriately with multicollinearity between our covariates. After the end of the term, I went back to this project to try to solve our multicollinearity problem using PCA.
